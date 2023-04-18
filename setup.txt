@@ -1,0 +1,6 @@
+$ EXPORT OPENAI_API_KEY=sk-...
+$ EXPORT QABOT_MODEL_NAME=gpt-4
+$ qabot -w -q "How many Hospitals are there located in Beijing"
+Query: How many Hospitals are there located in Beijing
+There are 39 hospitals located in Beijing.
+Total tokens 1749 approximate cost in USD: 0.05562
